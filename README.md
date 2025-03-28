@@ -5,7 +5,7 @@
 </div>
 
 ## Escritora, Criadora de Conteúdo e DEV Iniciante! 😎​🤓​
-Comecei minha jornada para o Lado Nerd da Força desde a infância. Hoje sou formada em letras-Inglês pela UFPI e atualmente estou a aprender programação.
+Comecei minha jornada para o Lado Nerd da Força desde a infância ao descobrir os jogos da Nintendo. Hoje sou formada em letras-Inglês pela UFPI e atualmente estou a aprender programação.
 Java | HTML | CSS | JavaScript  
 ## Minhas Redes Sociais
 <div> 
